@@ -1,0 +1,44 @@
+{
+  "source_repository": "pod369/Image-processing-4",
+  "source_commit": "b2f9a5b94bbe353cce22ce469e358bb2715759ce",
+  "organized_on": "2026-10-14",
+  "reference_files_preserve_original_bytes": true,
+  "standalone_reorganized_on": "2026-10-19",
+  "files": [
+    {
+      "local_path": "reference/Play_7_2.py",
+      "original_path": "Play_7_2.py",
+      "source_blob_sha": "82244d50a16a0eab853398cf9cb85014921b32b6",
+      "sha256": "9b98dc13cba4dda5ca974eb04d5b32febeb8ab94dedaa2fedb892ad91de0eee1",
+      "size_bytes": 1058
+    },
+    {
+      "local_path": "reference/Play_7_3.py",
+      "original_path": "Play_7_3.py",
+      "source_blob_sha": "f8a70c3740e2f8e7e99750e903ade27762c4c2b8",
+      "sha256": "2a3bf6338b4ffcbcd91639e4b4e13ff19ed797bd63eb56ded6b2b30bc098d727",
+      "size_bytes": 1099
+    },
+    {
+      "local_path": "reference/Play_7_4.py",
+      "original_path": "Play_7_4.py",
+      "source_blob_sha": "08a14a077a70c5d8c7ea902e70c04c0baf085947",
+      "sha256": "f28165566ff35277f21a74dafe34d3ff36f597afaf0ba77ae2f0246a52efc659",
+      "size_bytes": 1874
+    },
+    {
+      "local_path": "reference/Play_7_5.py",
+      "original_path": "Play_7_5.py",
+      "source_blob_sha": "a65f7cc90c66e8d724f06a96ba1e42447a1dc0d6",
+      "sha256": "d938d08c8fa68a595e26eabeaa9ebbe7ee5f1b2a12b1e91f753e87df79b529c6",
+      "size_bytes": 1546
+    },
+    {
+      "local_path": "reference/Play_7_7.py",
+      "original_path": "Play_7_7.py",
+      "source_blob_sha": "4c633c4e81463359a9849ea06fdab7c9b658315f",
+      "sha256": "bac1019cdb7e24ed5fc22df0f046aab0418ba9b2d174cfe8c9ed33cfe3fd8c69",
+      "size_bytes": 2086
+    }
+  ]
+}

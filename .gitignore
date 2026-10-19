@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.pt
+*.h5
+*.keras
+**/outputs/
+**/runs/
+**/training_runs/
+06_YOLO_Hangul_Text_Detection/datasets/
+*.zip
